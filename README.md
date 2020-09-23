@@ -1,6 +1,5 @@
-# React Practice
-
-Learning React Project
+# React Toy Project
+Learning React
 
 ### `Used Tech`
 - Vanilla JS
