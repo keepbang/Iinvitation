@@ -1,8 +1,9 @@
-# Redux Practice
+# React Practice
 
-Learning Redux Technology
+Learning React Project
 
 ### `Used Tech`
 - Vanilla JS
 - React JS
-- Redux
+- scss
+- React-Router
