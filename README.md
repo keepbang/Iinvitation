@@ -1,8 +1,9 @@
-# Redux Practice
-
-Learning Redux Technology
+# React Toy Project
+Learning React
 
 ### `Used Tech`
 - Vanilla JS
 - React JS
-- Redux
+- scss
+- React-Router
+- blueprintjs
