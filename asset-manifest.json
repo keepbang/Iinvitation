@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Invitation/static/css/main.5576c70b.chunk.css",
+    "main.js": "/Invitation/static/js/main.2c7bd544.chunk.js",
+    "main.js.map": "/Invitation/static/js/main.2c7bd544.chunk.js.map",
+    "runtime-main.js": "/Invitation/static/js/runtime-main.f1457ab5.js",
+    "runtime-main.js.map": "/Invitation/static/js/runtime-main.f1457ab5.js.map",
+    "static/js/2.acd70bf7.chunk.js": "/Invitation/static/js/2.acd70bf7.chunk.js",
+    "static/js/2.acd70bf7.chunk.js.map": "/Invitation/static/js/2.acd70bf7.chunk.js.map",
+    "index.html": "/Invitation/index.html",
+    "precache-manifest.7ebf528f9473b84b8cedd5abdfd0d0b9.js": "/Invitation/precache-manifest.7ebf528f9473b84b8cedd5abdfd0d0b9.js",
+    "service-worker.js": "/Invitation/service-worker.js",
+    "static/css/main.5576c70b.chunk.css.map": "/Invitation/static/css/main.5576c70b.chunk.css.map",
+    "static/js/2.acd70bf7.chunk.js.LICENSE.txt": "/Invitation/static/js/2.acd70bf7.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Invitation/static/media/NanumPen.cc024b19.ttf",
+    "static/media/main.jpg": "/Invitation/static/media/main.d089be98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1457ab5.js",
+    "static/js/2.acd70bf7.chunk.js",
+    "static/css/main.5576c70b.chunk.css",
+    "static/js/main.2c7bd544.chunk.js"
+  ]
+}
