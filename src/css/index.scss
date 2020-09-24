@@ -3,6 +3,11 @@
   font-family: "jua";
 }
 
+@font-face {
+  src : url("../fonts/NanumPen.ttf");
+  font-family: "nanumpen";
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,7 +15,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #FFE0D3;
+  background-color: #F0F3F4;
   text-align: center;
 }
 

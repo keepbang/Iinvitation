@@ -1,16 +1,20 @@
 .main_page {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
 
-    font-family: "jua";
+    font-family: "nanumpen";
 
     display: flex;
     flex-direction: column;
     align-items: center;
 
+    h1 {
+        color: #A8A8A8;
+    }
+
     .main___img {
         width: 80vw;
-        margin: 20px 5px 20px 5px;
         box-shadow: 0px 0px 10px 5px #FFF;
     }
 
