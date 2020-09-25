@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bda5b865da9aece6b55da8fc74ab8870",
+    "revision": "054688585b56eb008a880ffd000314c5",
     "url": "/Invitation/index.html"
   },
   {
-    "revision": "637276bbf5606d2ac162",
-    "url": "/Invitation/static/css/main.abad7a2b.chunk.css"
+    "revision": "935ff49c82c549b414ec",
+    "url": "/Invitation/static/css/2.e9409c9c.chunk.css"
   },
   {
-    "revision": "17520ef5deb03f7144d0",
-    "url": "/Invitation/static/js/2.3686e7fd.chunk.js"
+    "revision": "30e106c623a396e4acd3",
+    "url": "/Invitation/static/css/main.e0ab152d.chunk.css"
+  },
+  {
+    "revision": "935ff49c82c549b414ec",
+    "url": "/Invitation/static/js/2.eaabd7b0.chunk.js"
   },
   {
     "revision": "d1e8f89c8af5c3ff75a9dcd6bacfa64d",
-    "url": "/Invitation/static/js/2.3686e7fd.chunk.js.LICENSE.txt"
+    "url": "/Invitation/static/js/2.eaabd7b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "637276bbf5606d2ac162",
-    "url": "/Invitation/static/js/main.231eece1.chunk.js"
+    "revision": "30e106c623a396e4acd3",
+    "url": "/Invitation/static/js/main.f757dc17.chunk.js"
   },
   {
     "revision": "d5cac73231b780d2e7b6",
@@ -30,6 +34,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc024b19448b55c150d906a228b6f845",
     "url": "/Invitation/static/media/NanumPen.cc024b19.ttf"
+  },
+  {
+    "revision": "05f1cdadfe476395f60e233b15c22155",
+    "url": "/Invitation/static/media/icons-16.05f1cdad.eot"
+  },
+  {
+    "revision": "3c1c220e7a18286503fb431c7a7fe183",
+    "url": "/Invitation/static/media/icons-16.3c1c220e.woff"
+  },
+  {
+    "revision": "3cde8748332d1de6b1ae1c2dc5850754",
+    "url": "/Invitation/static/media/icons-16.3cde8748.ttf"
+  },
+  {
+    "revision": "0a5c76518a68c185baa2c6744456918c",
+    "url": "/Invitation/static/media/icons-20.0a5c7651.eot"
+  },
+  {
+    "revision": "51ec31f302d0072808e1f83f85fea4cd",
+    "url": "/Invitation/static/media/icons-20.51ec31f3.ttf"
+  },
+  {
+    "revision": "cef8cdbb9d0ba82e6e19fb0eeba2ac3d",
+    "url": "/Invitation/static/media/icons-20.cef8cdbb.woff"
   },
   {
     "revision": "d089be98e568211d128460062783853f",
