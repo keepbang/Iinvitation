@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Invitation/static/css/main.abad7a2b.chunk.css",
-    "main.js": "/Invitation/static/js/main.07f86909.chunk.js",
-    "main.js.map": "/Invitation/static/js/main.07f86909.chunk.js.map",
+    "main.js": "/Invitation/static/js/main.231eece1.chunk.js",
+    "main.js.map": "/Invitation/static/js/main.231eece1.chunk.js.map",
     "runtime-main.js": "/Invitation/static/js/runtime-main.f1457ab5.js",
     "runtime-main.js.map": "/Invitation/static/js/runtime-main.f1457ab5.js.map",
     "static/js/2.3686e7fd.chunk.js": "/Invitation/static/js/2.3686e7fd.chunk.js",
     "static/js/2.3686e7fd.chunk.js.map": "/Invitation/static/js/2.3686e7fd.chunk.js.map",
     "index.html": "/Invitation/index.html",
-    "precache-manifest.35d665196f575971955d5fb4184d9979.js": "/Invitation/precache-manifest.35d665196f575971955d5fb4184d9979.js",
+    "precache-manifest.aedafa8e7e1cbd6db884cf47352e0edd.js": "/Invitation/precache-manifest.aedafa8e7e1cbd6db884cf47352e0edd.js",
     "service-worker.js": "/Invitation/service-worker.js",
     "static/css/main.abad7a2b.chunk.css.map": "/Invitation/static/css/main.abad7a2b.chunk.css.map",
     "static/js/2.3686e7fd.chunk.js.LICENSE.txt": "/Invitation/static/js/2.3686e7fd.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.f1457ab5.js",
     "static/js/2.3686e7fd.chunk.js",
     "static/css/main.abad7a2b.chunk.css",
-    "static/js/main.07f86909.chunk.js"
+    "static/js/main.231eece1.chunk.js"
   ]
 }
