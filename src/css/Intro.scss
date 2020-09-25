@@ -6,15 +6,22 @@
     font-family: "nanumpen";
 
     .btn_area{
-        display: flex;
-        flex-direction: row;
-
+        display: grid;
+        justify-content: center;
+        
         a {
             width: 40vw;
-            border: 1px solid #2d2d2d;
+            padding: 10px 20px;
             text-decoration: none;
             background-color: #F5B7B1;
             color: #5F6A6A;
+
+            margin-bottom: 10px;
+
+            &:first-of-type{
+                margin-right: 10px;
+            }
+
         }
 
     }

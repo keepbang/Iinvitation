@@ -5,6 +5,7 @@ import Navi from './Navi';
 import Road from './Road';
 import Photo from './Photo';
 import Intro from './Intro';
+import Footer from './Footer';
 
 import {
   HashRouter,
@@ -19,6 +20,7 @@ function App() {
       <Route path="/intro" component={Intro}/>
       <Route path="/road" component={Road}/>
       <Route path="/photo"  component={Photo}/>
+      <Footer/>
     </HashRouter>
   );
 }

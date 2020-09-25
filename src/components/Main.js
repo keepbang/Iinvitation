@@ -15,11 +15,11 @@ function Main(){
                 <h1>우리 결혼합니다</h1>
                 <img className="main___img" src={mainImg} alt="main_image"/>
                 <div className="main_plan">
-                    <h3>김ㅇㅇ • 박ㅇㅇ</h3>
+                    <h3>김유위 ❤ 임수지</h3>
                     <h5>
-                        202X.XX.XX 토요일 오후 1시
+                        2020.12.05 토요일 오후 1시
                         <br/>
-                        바른컨벤션센터 1층 그랜드홀
+                        보타닉파크웨딩 1층 그랜드홀
                     </h5>
                 </div>
             </div>

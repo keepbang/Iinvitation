@@ -9,7 +9,7 @@ import OSM from 'ol/source/OSM';
 import VectorSource from 'ol/source/Vector';
 import VectorLayer from 'ol/layer/Vector';
 import {transformExtent,transform} from 'ol/proj'
-import {Circle as CircleStyle, Fill, Stroke, Style,Icon} from 'ol/style';
+import {Fill, Stroke, Style,Icon} from 'ol/style';
 
 import markerIcon from '../images/marker.png';
 
@@ -83,8 +83,8 @@ function Road() {
         <div className="road_page">
             <div id="map"></div>
             <ButtonGroup>
-                <a className="map_link" href="http://naver.me/FlYoMtVX"><Button className="map_btn" text="네이버로 열기" intent={Intent.SUCCESS}/></a>
-                <a className="map_link" href="http://kko.to/XnX67DPDM"><Button className="map_btn" text="카카오로 열기" intent={Intent.PRIMARY}/></a>
+                <a className="map_link" href="http://naver.me/Ff4nYzDf"><Button className="map_btn" text="네이버로 열기" intent={Intent.SUCCESS}/></a>
+                <a className="map_link" href="http://kko.to/xNFd6YgDT"><Button className="map_btn" text="카카오로 열기" intent={Intent.PRIMARY}/></a>
             </ButtonGroup>
         </div>
     )

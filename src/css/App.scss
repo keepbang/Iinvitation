@@ -27,3 +27,18 @@
 .top_padding{
   padding-top: 30px;
 }
+
+FOOTER {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(236, 112, 99 );
+  color: white;
+  text-align: center;
+  font: {
+    family: 'nanumpen';
+    size: middle;
+  }
+  
+}
