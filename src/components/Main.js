@@ -1,8 +1,13 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 import '../css/Main.scss';
 import mainImg from '../images/main.jpg';
 
 function Main(){
+
+    useEffect(() => {
+        document.querySelectorAll(".navi___link").forEach((v)=>v.classList.remove('active'))
+        document.querySelector(".navi___link.main_link").classList.add('active');
+    }, [])
 
     return (
         <>

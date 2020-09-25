@@ -15,8 +15,18 @@
             padding: 5px 0px 5px 0px;
             flex-grow: 1;
             background-color: rgba(236, 112, 99 );
-            border: 0;
-            outline: 0;
+            text-decoration: none;
+
+            &.active{
+                .navi____text{
+                    color: darkred !important;
+                    font-size: large !important;
+                }
+
+                svg{
+                    fill:darkred !important;
+                }
+            }
             
             .navi___item {
                 cursor: pointer;
@@ -26,16 +36,15 @@
                 height: 40px;
                 background-color: rgba(236, 112, 99 );
                 outline: 0;
-                
-    
-    
+                text-align: center;
+
                 svg {
                     fill: #fff;
                 }
     
                 .navi____text{
                     color: #fff;
-                    font-size: smaller;
+                    font-size: small;
                     font-family: "nanumpen";
                 }
                 

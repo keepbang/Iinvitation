@@ -8,4 +8,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-items: center;
+
+    #map {
+        width: 80vw;
+        height: 50vh;
+        margin-top: 50px;
+    }
+
+    .map_btn {
+        padding: 10px 20px;
+    }
+
 }
