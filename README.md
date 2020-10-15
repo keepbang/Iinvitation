@@ -9,7 +9,7 @@
 - blueprintjs
 
 # Page 🎇
-- [http://keepbang.github.io/Invitation](http://keepbang.github.io/Invitation)
+- [https://keepbang.github.io/Invitation](https://keepbang.github.io/Invitation)
 
 # Preview
 
