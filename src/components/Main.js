@@ -15,7 +15,7 @@ function Main(){
                 <h1>우리 결혼합니다</h1>
                 <img className="main___img" src={mainImg} alt="main_image"/>
                 <div className="main_plan">
-                    <h3>김유위 ❤ 임수지</h3>
+                    <h3>김ㅇㅇ ❤ 임ㅇㅇ</h3>
                     <h5>
                         2020.12.05 토요일 오후 1시
                         <br/>
