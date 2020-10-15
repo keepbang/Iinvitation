@@ -1,14 +1,14 @@
-# 청첩장 toy project
+# 청첩장
 (사진 감사합니다!!)
 
-## Learning React Project
+### Learning React Project
 
-### Used Tech
+# Used Tech
 - React(react-router-dom)
 - scss
 - blueprintjs
 
-## Page 🎇
+# Page 🎇
 - [http://keepbang.github.io/Invitation](http://keepbang.github.io/Invitation)
 
 # Preview
